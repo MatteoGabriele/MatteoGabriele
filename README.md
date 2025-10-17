@@ -3,4 +3,4 @@ You can find me only on [Bluesky](https://bsky.app/profile/matteogabriele.bsky.s
 
 I primarily enjoy creating Vue.js and Nuxt plugins and developing various CLI tools.
 
-I also waste time creating stupid websites like [GifRequest](https://gifrequest.com)
+I've also built a silly game for developers called [GifRequest](https://gifrequest.com)
