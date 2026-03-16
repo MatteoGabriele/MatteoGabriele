@@ -5,4 +5,4 @@ I primarily enjoy creating Vue.js and Nuxt plugins, websites and developing vari
 
 I've also built:
 - A silly game for developers called [GifRequest](https://gifrequest.com) where you need to match a GIF to a random repository name.
-- An app called [AgentScan](https://agentscan.netlify.app/) that tries to understand if a Github account is run by an AI agent or not.
+- An app called [AgentScan](https://agentscan.netlify.app/) that tries to understand if a Github account automated or not.
