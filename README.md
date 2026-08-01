@@ -5,7 +5,7 @@ Some stuff I've built or contributed to:
 - [AgentScan](https://agentscan.tools)
 - [npmx](https://github.com/npmx-dev/npmx.dev)
 - [AgentScan Action](https://agentscan.tools)
-- The [identity](https://github.com/unveil-project/identity) library
+- [@unveil/identity](https://github.com/unveil-project/identity)
 - [GifRequest](https://gifrequest.com)
 - [VueAnalytics](https://github.com/MatteoGabriele/vue-analytics)
 - [VueGtag](https://github.com/MatteoGabriele/vue-gtag)
