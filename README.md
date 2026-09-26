@@ -2,10 +2,11 @@
 You can find me only on [Bluesky](https://bsky.app/profile/matteogabriele.bsky.social), where I mainly discuss open-source and developer-related topics.
 
 Some stuff I've built or contributed to:
-- [AgentScan](https://agentscan.tools)
+- [agentscan.tools](https://agentscan.tools)
+- [ai-policy.dev](https://ai-policy.dev)
+- [npmx](https://github.com/npmx-dev/npmx.dev)
 - [AgentScan Action](https://github.com/MatteoGabriele/agentscan-action)
 - [Typosquat](https://github.com/MatteoGabriele/typosquat)
-- [npmx](https://github.com/npmx-dev/npmx.dev)
 - [@unveil/identity](https://github.com/unveil-project/identity)
 - [@unveil/vk](https://github.com/unveil-project/vk)
 - [GifRequest](https://gifrequest.com)
