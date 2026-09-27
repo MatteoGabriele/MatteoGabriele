@@ -9,7 +9,6 @@ Some stuff I've built or contributed to:
 - [Typosquat](https://github.com/MatteoGabriele/typosquat)
 - [@unveil/identity](https://github.com/unveil-project/identity)
 - [@unveil/vk](https://github.com/unveil-project/vk)
-- [GifRequest](https://gifrequest.com)
 - [vue-analytics](https://github.com/MatteoGabriele/vue-analytics)
 - [vue-gtag](https://github.com/MatteoGabriele/vue-gtag)
 - [vue-progressive-image](https://github.com/MatteoGabriele/vue-progressive-image)
