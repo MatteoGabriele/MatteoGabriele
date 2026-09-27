@@ -1,4 +1,5 @@
 Passionate about software development, open source, and the people behind it.
+
 These days you'll find me building libraries and websites, conjuring CI workflows, dodging AI, and helping open source communities deal with automation spam.
 
 Some stuff I'm building or contributing to:
