@@ -7,8 +7,10 @@ Some stuff I'm building or contributing to:
 - [ai-policy.dev](https://ai-policy.dev)
 - [npmx](https://github.com/npmx-dev/npmx.dev)
 - [AgentScan Action](https://github.com/MatteoGabriele/agentscan-action)
+- [Interlinked Action](https://github.com/MatteoGabriele/interlinked)
 - [Typosquat](https://github.com/MatteoGabriele/typosquat)
 - [@unveil/identity](https://github.com/unveil-project/identity)
 - [@unveil/vk](https://github.com/unveil-project/vk)
+- [@unveil/interlinked](https://github.com/unveil-project/interlinked)
 
 You can find me only on [Bluesky](https://bsky.app/profile/matteogabriele.bsky.social), where I mainly discuss open-source and developer-related topics.
