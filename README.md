@@ -3,11 +3,12 @@ Passionate about software development, open source, and the people behind it.
 These days you'll find me building libraries and websites, conjuring CI workflows, dodging AI, and helping open source communities deal with automation spam.
 
 Some stuff I'm building or contributing to:
-- [agentscan.tools](https://agentscan.tools)
-- [ai-policy.dev](https://ai-policy.dev)
-- [npmx](https://github.com/npmx-dev/npmx.dev)
+- [AgentScan](https://agentscan.tools)
+- [AgentScan - Text](https://text.agentscan.tools)
 - [AgentScan Action](https://github.com/MatteoGabriele/agentscan-action)
 - [AgentScan Text Action](https://github.com/MatteoGabriele/agentscan-text-action)
+- [ai-policy.dev](https://ai-policy.dev)
+- [npmx](https://github.com/npmx-dev/npmx.dev)
 - [Typosquat](https://github.com/MatteoGabriele/typosquat)
 - [@unveil/identity](https://github.com/unveil-project/identity)
 - [@unveil/vk](https://github.com/unveil-project/vk)
